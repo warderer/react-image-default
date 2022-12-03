@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Chilaquiles",
+      "cover": "https://images.unsplash.com/photo-1640719028782-8230f1bdc42a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpbGFxdWlsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "title": "Quesadillas con Queso",
+      "cover": "https://images.unsplash.com/photo-122618040996337-56904b7850b9?ixlib=rb-4.0.3&ixid=sMnwxMjA3fDB8MHxzZWFyY2h8M3x8cXVlc2FkaWxsYXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "title": "Tamales",
+      "cover": "https://images.unsplash.com/photo-1629741884398-68d755d34404?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dGFtYWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "title": "Pozole"
+    },
+    {
+      "id": 5,
+      "title": "Panuchos",
+      "cover": ""
+    },
+    {
+      "id": 6,
+      "title": "Cochinita Pibil",
+      "cover": "http://"
+    }
+  ]
