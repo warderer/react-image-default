@@ -1,0 +1,28 @@
+.recipes {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+  .recipes__list {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-rows: 1fr;
+    grid-column-gap: 30px;
+    grid-row-gap: 40px;
+    width: 100%;
+    max-width: 960px;
+  }
+
+  .recipes__item {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 300px;
+  }
